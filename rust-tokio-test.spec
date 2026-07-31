@@ -5,8 +5,8 @@
 %global crate tokio-test
 
 Name:           rust-%{crate}
-Version:        0.2.0
-Release:        2%{?dist}
+Version:        0.4.5
+Release:        1%{?dist}
 Summary:        Testing utilities for Tokio- and futures-based code
 
 # Upstream license specification: MIT
